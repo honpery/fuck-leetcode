@@ -1,0 +1,28 @@
+{
+    "name": "fuck-leetcode",
+    "description": "Fucking leetcode in TypeScript.",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha -r ts-node/register ./src/**/*.test.ts"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/honpery/fuck-leetcode.git"
+    },
+    "author": "honpery <honpery@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/honpery/fuck-leetcode/issues"
+    },
+    "homepage": "https://github.com/honpery/fuck-leetcode#readme",
+    "devDependencies": {
+        "@types/chai": "^4.0.4",
+        "@types/mocha": "^2.2.44",
+        "chai": "^4.1.2",
+        "mocha": "^4.0.1",
+        "ts-node": "^3.3.0",
+        "tslint": "^5.8.0",
+        "typescript": "^2.6.1"
+    }
+}
