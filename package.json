@@ -18,7 +18,7 @@
     "homepage": "https://github.com/honpery/fuck-leetcode#readme",
     "devDependencies": {
         "@types/chai": "^4.0.4",
-        "@types/mocha": "^2.2.44",
+        "@types/mocha": "^5.2.1",
         "chai": "^4.1.2",
         "mocha": "^4.0.1",
         "ts-node": "^3.3.0",
