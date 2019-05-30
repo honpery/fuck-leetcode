@@ -6,9 +6,10 @@
   version "4.0.4"
   resolved "https://registry.yarnpkg.com/@types/chai/-/chai-4.0.4.tgz#fe86315d9a66827feeb16f73bc954688ec950e18"
 
-"@types/mocha@^2.2.44":
-  version "2.2.44"
-  resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-2.2.44.tgz#1d4a798e53f35212fd5ad4d04050620171cd5b5e"
+"@types/mocha@^5.2.7":
+  version "5.2.7"
+  resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-5.2.7.tgz#315d570ccb56c53452ff8638738df60726d5b6ea"
+  integrity sha512-NYrtPht0wGzhwe9+/idPaBB+TqkY9AhTvOLMkThm0IoEfLaiVQZwBwyJ5puCkO3AUCWrmcoePjp2mbFocKy4SQ==
 
 ansi-regex@^2.0.0:
   version "2.1.1"
